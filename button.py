@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: button.py
+Descripción: presionar boton simple
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 import RPi.GPIO as GPIO
 import time
 

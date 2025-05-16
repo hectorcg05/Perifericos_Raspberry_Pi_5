@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: sensor_inclinación.py
+Descripción: inclinación detectada por sensor pequeño
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import Button
 from signal import pause
 

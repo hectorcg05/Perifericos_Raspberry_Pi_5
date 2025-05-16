@@ -1,3 +1,9 @@
+'''Formato para Python
+Nombre del archivo: infrarojo.py
+Descripción: obstaculos detectados por medicion de sensor infrarojo
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
+
 #!/usr/bin/env python3
 import RPi.GPIO as GPIO
 import time

@@ -1,3 +1,9 @@
+'''Formato para Python
+Nombre del archivo: encoder.py
+Descripción: encoder rotatorio mediciones por posición
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
+
 from gpiozero import RotaryEncoder
 from signal import pause
 

@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: servo_con_infrarojo.py
+Descripción: activación de motor servo en caso de no detectar obstaculo
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 #!/usr/bin/env python3
 import RPi.GPIO as GPIO
 import time

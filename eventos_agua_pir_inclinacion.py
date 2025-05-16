@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: eventos_agua_pir_inclinacion.py
+Descripción: fusión de sensor de agua, pir e inclinación
+Autor: Héctor Castillo Guerra 
+Versión: 1.0''' 
 from gpiozero import Button
 from signal import pause
 

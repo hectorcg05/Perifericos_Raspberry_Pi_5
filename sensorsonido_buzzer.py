@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: sensorsonido_buzzer.py
+Descripción: cada detección de sonido activamos buzzer (sonido)
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import Button, Buzzer
 from signal import pause
 from time import sleep

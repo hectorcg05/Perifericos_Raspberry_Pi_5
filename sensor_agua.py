@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: sensor_agua.py
+Descripción: detección de agua con sensor
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import Button
 from signal import pause
 

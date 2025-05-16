@@ -1,3 +1,9 @@
+'''Formato para Python
+Nombre del archivo: sensor_sonido.py
+Descripción: detección de cualquier sonido por sensor
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
+
 from gpiozero import Button
 from signal import pause
 

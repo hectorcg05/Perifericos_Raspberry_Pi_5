@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: LCD.py
+Descripción: Mensajes a desplegar en lcd 16x2
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from RPLCD.i2c import CharLCD
 from time import sleep
 

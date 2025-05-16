@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: ultrasonico.py
+Descripción: medición de distancia con ultrasonico
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import DistanceSensor
 from time import sleep
 

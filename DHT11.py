@@ -1,3 +1,9 @@
+'''Formato para Python
+Nombre del archivo: DHT11.py
+Descripción: Sensor de temperatura y humedad, meciones
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
+
 import time
 import adafruit_dht
 import board

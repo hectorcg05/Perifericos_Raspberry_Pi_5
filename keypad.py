@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: keypad.py
+Descripción: teclado matricial para detectar tecla o caracter presionado
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 #!/usr/bin/env python3
 from gpiozero import DigitalOutputDevice, Button
 from time import sleep

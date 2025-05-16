@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: baraled_encoder.py
+Descripción: Barra led con encoder
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import LEDBarGraph, RotaryEncoder
 from signal import pause
 

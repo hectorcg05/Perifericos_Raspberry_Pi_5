@@ -1,3 +1,8 @@
+'''Formato para Python
+Nombre del archivo: baraled.py
+Descripción: Barra led 
+Autor: Héctor Castillo Guerra 
+Versión: 1.0'''
 from gpiozero import LEDBarGraph
 from time import sleep
 
